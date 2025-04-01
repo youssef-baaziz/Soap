@@ -11,7 +11,7 @@ import java.util.List;
 // POJO : Plain Old Java Object
 @WebService(serviceName = "BankWs")
 public class BanKService {
-    @WebMethod(operationName = "Convert")
+    @WebMethod(operationName = "convert")
     public double conversion(@WebParam(name = "montant") double montant) {
         return Math.round(montant * 10.54 * 100.0) / 100.0; // Example conversion rate from EUR to DH
     }
