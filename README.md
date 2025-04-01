@@ -20,7 +20,9 @@ The architecture includes the following components:
 - **SOAP Protocol:** All interactions between the client and the server are done via SOAP.
 
 ### Diagram
-![Architecture Diagram](path/to/your/screenshot.png)
+<img width="426" alt="Screenshot 2025-04-01 at 19 19 14" src="https://github.com/user-attachments/assets/5631130e-10f0-4f8d-890a-51faf3aae242" />
+
+<img width="385" alt="Screenshot 2025-04-01 at 19 19 41" src="https://github.com/user-attachments/assets/cfde9bd1-ba9b-4893-856e-86fa81af6f56" />
 
 ## Web Service Endpoints
 
@@ -89,7 +91,16 @@ Add relevant screenshots for each step of the process, such as:
 - PHP Client code and response
 
 ### Example Screenshot:
-![SoapUI Test](path/to/your/screenshot.png)
+- Démarrer le serveur
+  
+  <img width="423" alt="Screenshot 2025-04-01 at 18 42 35" src="https://github.com/user-attachments/assets/07cec318-e4b9-4934-b9a5-17db4d3f5b4f" />
+
+- Traitement sur les comptes avec SoapUi
+<img width="1155" alt="Screenshot 2025-04-01 at 18 58 13" src="https://github.com/user-attachments/assets/f42a56a7-4fdd-4877-a643-00213ad7c50d" />
+
+<img width="1169" alt="Screenshot 2025-04-01 at 19 00 13" src="https://github.com/user-attachments/assets/8f4c3396-f18c-4588-861a-6c7b474e7963" />
+
+<img width="1169" alt="Screenshot 2025-04-01 at 19 00 25" src="https://github.com/user-attachments/assets/91c66d90-2b47-47e8-8f91-bc9bd6a8f99d" />
 
 ## Conclusion
 
